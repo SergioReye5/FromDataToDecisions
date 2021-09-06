@@ -1,5 +1,5 @@
 # FromDataToDecisions
-### Welcome to Sergio Reyes ISQA 8600's Repository!
+### Welcome to Sergio Reyes's ISQA 8600 Repository!
 
 This README file will give you some background about myself and links to my future assignments.
 
