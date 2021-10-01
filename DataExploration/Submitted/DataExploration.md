@@ -43,7 +43,7 @@ ggplot(data = d, aes(x=actual_date, y = total_duration_num))
 
 This plot's main goal was to try and explore if time spent in the program affects the session's length. Instead I found something else that caught my eye. Native Americans have long gaps of time between sessions. 
 
-![Trend Line](https://github.com/SergioReye5/FromDataToDecisions/blob/main/DataExploration/Submitted/Bar%20Graph.png)
+![Trend Line](https://github.com/SergioReye5/FromDataToDecisions/blob/main/DataExploration/Submitted/Trend%20Line.png)
 
 ```
 ggplot(data = d, aes(x=total_duration_num, y = TimetoApprove))
