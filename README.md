@@ -10,7 +10,7 @@ My name is Sergio Reyes, I grew up in Madrid, Spain. For some reason or another 
 ### Individual Assignments
 
 * Data Entry Analysis
-* Data Exploration
+* [Data Exploration](https://github.com/SergioReye5/FromDataToDecisions/blob/main/DataExploration/Submitted/DataExploration.md)
 
 
 ### License
