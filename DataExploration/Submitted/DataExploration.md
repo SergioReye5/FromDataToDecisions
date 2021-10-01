@@ -16,6 +16,8 @@ d$simple_race[d$ethnic_identity=="Other Hispanic or Latino"]<-"Hispanic"
 d$TimetoApprove <- d$approved_date-d$date_entered
 ```
 
+I decided to focus on the main races represented in the data set. If there were less than 10 observations for a race I decided to not include it.
+
 ## Plots
 
 ![Bar Graph](https://github.com/SergioReye5/FromDataToDecisions/blob/main/DataExploration/Submitted/Bar%20Graph.png)
