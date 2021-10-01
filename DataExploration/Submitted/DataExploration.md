@@ -52,5 +52,5 @@ ggplot(data = d, aes(x=total_duration_num, y = TimetoApprove))
 +labs(x="Session Length", y="Time To Approve")
 ```
 
-This scatter plot shows us that the longer the sessions the longer it takes for them to be approved by a supervisor. Time to apporve is calculated by substracting the fields approved date and date entered. This plot might be out of scope for my group's research questions but I found it interesting. 
+This scatter plot shows us that the longer the sessions the longer it takes for them to be approved by a supervisor. Time to apporve is calculated by substracting the fields approved date and date entered. This plot might be out of scope for my group's research questions but I found it interesting.   
 *Note: For this plot I excluded an outlier whose session time was 800 days.*
