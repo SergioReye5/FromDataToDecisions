@@ -11,6 +11,7 @@ My name is Sergio Reyes, I grew up in Madrid, Spain. For some reason or another 
 
 * Data Entry Analysis
 * [Data Exploration](https://github.com/SergioReye5/FromDataToDecisions/blob/main/DataExploration/Submitted/DataExploration.md)
+* [Worst Plots](https://github.com/SergioReye5/FromDataToDecisions/blob/main/Worst%20Plots/Submitted/Worst%20Plot.Rmd)
 
 
 ### License
