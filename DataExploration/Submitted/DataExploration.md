@@ -38,7 +38,7 @@ In this graph we can see the average time spent in treatment broken down by race
 ggplot(data = d, aes(x=actual_date, y = total_duration_num))
 + stat_summary(fun = "mean", geom = "point")
 +facet_wrap(~simple_race, nrow = 4)
-+labs(x= "Time in Treatment", y = "Session Lenght")
++labs(x= "Time in Treatment", y = "Session Length")
 ```
 
 This plot's main goal was to try and explore if time spent in the program affects the session's length. Instead I found something else that caught my eye. Native Americans have long gaps of time between sessions. 
